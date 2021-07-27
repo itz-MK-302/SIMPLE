@@ -13,5 +13,5 @@
 ➠python3 SIMPLE.py
 ```
 
-
+# TIDAK UNTUK DI SALAH GUNAKAN
 
