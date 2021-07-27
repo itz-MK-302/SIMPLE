@@ -13,5 +13,9 @@
 ➠python3 SIMPLE.py
 ```
 
-# TIDAK UNTUK DI SALAH GUNAKAN
+# CATATAN
+```
+Hanya untuk pembelajaran tidak untuk di salah gunakan
+
+```
 
