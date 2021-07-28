@@ -19,3 +19,9 @@ Hanya untuk pembelajaran tidak untuk di salah gunakan
 
 ```
 
+# UPDATE SCRIPT
+```
+rm -rf SIMPLE
+git pull
+
+```
