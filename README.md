@@ -12,9 +12,3 @@
 ➠cd SIMPLE 
 ➠python3 SIMPLE.py
 ```
-
-# CATATAN
-```
-Hanya untuk pembelajaran tidak untuk di salah gunakan
-
-```
