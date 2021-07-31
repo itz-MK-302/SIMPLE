@@ -8,7 +8,7 @@ import requests,mechanize,bs4,sys,os,subprocess,uuid,random,time,re,base64,json,
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 from datetime import datetime
 
-expired = ['01', '30', '2019']
+expired = ['01', '30', '2021']
 
 ###### LOGO ######
 
