@@ -17,7 +17,7 @@
 ➠cd SIMPLE 
 ➠python3 SIMPLE.py
 ```
-# Menu
+# Menu Script
 ```
 Crack From Friend
 Crack From Publik
