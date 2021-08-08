@@ -1,4 +1,4 @@
-# NOTIPIKASI🚫
+# NOTIPIKASI 🚫
 
 # Saya tidak bertanggung jawab atas 
 # penyalah gunaan script ini gunakan
