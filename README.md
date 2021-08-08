@@ -1,5 +1,3 @@
-# 💀 TRICKERS💀
-
 # Saya tidak bertanggung jawab atas 
 # penyalah gunaan script ini gunakan
 # script ini untuk pembelajaran bukan 
