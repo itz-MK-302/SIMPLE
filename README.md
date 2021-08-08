@@ -17,9 +17,3 @@
 ➠cd SIMPLE 
 ➠python3 SIMPLE.py
 ```
-# Menu Script
-```
-Crack ID From Friends
-Crack ID From Publik
-Crack ID From Followers
-```
