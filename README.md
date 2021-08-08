@@ -1,5 +1,11 @@
 # 💀 TRICKERS💀
 
+# Saya tidak bertanggung jawab atas 
+# penyalah gunaan script ini gunakan
+# script ini untuk pembelajaran bukan 
+# untuk di salah gunakan ❗❗❗
+
+
 ```
 ➠pkg update && pkg upgrade 
 ➠pkg install python 
@@ -13,10 +19,3 @@
 ➠cd SIMPLE 
 ➠python3 SIMPLE.py
 ```
-# Saya tidak bertanggung jawab atas 
-# penyalah gunaan script ini gunakan
-# script ini untuk pembelajaran bukan 
-# untuk di salah gunakan ❗❗❗
-
-
-
