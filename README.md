@@ -19,7 +19,7 @@
 ```
 # Menu Script
 ```
-Crack From Friend
+Crack From Friends
 Crack From Publik
-Crack From Follow
+Crack From Followers
 ```
