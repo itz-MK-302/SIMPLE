@@ -17,3 +17,9 @@
 ➠cd SIMPLE 
 ➠python3 SIMPLE.py
 ```
+# Menu
+```
+Crack From Friend
+Crack From Publik
+Crack From Follow
+```
