@@ -23,7 +23,7 @@ def pahrul():
 
 ok = []
 cp = []
-ttl =[]
+
 
 def jalan(z):
 	for e in z + "\n":
