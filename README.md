@@ -19,5 +19,3 @@
 ➠ cd SIMPLE 
 ➠ python3 SIMPLE.py
 ```
-
-# Thanks For Dapunda
