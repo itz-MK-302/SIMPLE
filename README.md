@@ -20,7 +20,3 @@
 ➠  python3 SIMPLE.py
 ```
 
-# Thanks For 
-```
-Dapunda Khuraya X
-```
