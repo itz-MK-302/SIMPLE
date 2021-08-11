@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # coding=utf-8
+# JANGAN DI EDIT NANTI ERROR
 
 
 ###### IMPORT MODULE ######
