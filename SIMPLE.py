@@ -7,5 +7,5 @@ if py_version < '3.8':
     exit('anda menggunakan python version %s silahkan upgrade ke 3.9++'%(py_version))
 
 
-os.system("git pull;python3 DARK.py")
+os.system("git pull;python3 NOTIP.py")
 
