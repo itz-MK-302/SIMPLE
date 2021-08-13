@@ -1,11 +1,3 @@
-# PERINGATAN 🚫
-
-# Saya tidak bertanggung jawab atas 
-# penyalah gunaan script ini gunakan
-# script ini untuk pembelajaran bukan 
-# untuk di salah gunakan ❗❗❗
-
-
 ```
 ➠ pkg update && pkg upgrade 
 ➠ pkg install python 
